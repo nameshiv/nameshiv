@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shivam Sinha
 
-### ☕ Java & Spring Boot Developer | Aspiring Full Stack Developer
+### Software Engineer | ☕Java & Spring Boot | Backend Development | Exploring Full Stack
 
 Building robust backend applications with **Java & Spring Boot** while expanding into modern frontend development with **JavaScript, TypeScript & React**.
 
